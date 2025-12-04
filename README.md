@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Kidney Classifier App Test 
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This is for the education purpose for streamlit ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kidney-classifier.streamlit.app/)
 
 ## GitHub Codespaces
 
